@@ -38,5 +38,5 @@ web demo so people can try it without installing anything
 calibration against a set of claims I know are true or false, to see if the risk score actually tracks truth
 better separation of "the model didn't mention it" vs "the model actively disagreed"
 
-
-That reads like you because it talks about real problems you actually hit (the embedding bug, the Lehman calibration issue, the API key mistake). Paste it in, push it.
+Note on development: 
+I used AI tools (Claude/GPT) to help scaffold and iterate on parts of this code. The design decisions, debugging, and testing are my own.
