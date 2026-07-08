@@ -62,5 +62,3 @@ python test_pipeline.py           # tests (26/26 passing)
 - Calibration against a set of claims I know are true or false, to see if the risk score actually tracks truth
 - Better separation of "the model didn't mention it" vs. "the model actively disagreed"
 
-Note on development: 
-I used AI tools (Claude/GPT) to help scaffold and iterate on parts of this code. The design decisions, debugging, and testing are my own.
